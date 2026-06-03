@@ -1,1 +1,1 @@
-# Guidelines for Coding Agents et al.
+# Skills for Coding Agents et al.
